@@ -1,0 +1,26 @@
+{
+  "author": "Dennis Torres <djtorres0@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/psirenny/d-semantic-ui-modal/issues"
+  },
+  "description": "Derby JS semantic UI modal component.",
+  "keywords": [
+    "component",
+    "derby",
+    "modal",
+    "semantic",
+    "ui"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "d-semantic-ui-modal",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/psirenny/d-semantic-ui-modal.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}

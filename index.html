@@ -1,0 +1,7 @@
+<index: element="modal">
+  <div class="ui dimmer modals page transition animating {{if open}}visible active fade in{{/}}">
+    <div class="ui modal transition animating {{size}} {{if open}}visible active fade in{{/}}" on-click="open($event)">
+      <i class="close icon" on-click="close($event)"></i>
+      {{content}}
+    </div>
+  </div>
